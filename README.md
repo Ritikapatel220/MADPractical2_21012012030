@@ -4,9 +4,11 @@ AIM: Create Activity to display “Hello World” in TextView in the center of A
 ![p2](https://user-images.githubusercontent.com/111005666/186915783-c9bdd744-8d4c-4d12-8e7c-3bf202b6af30.png)
 
 1. Oncreate
+
 ![OnCreate](https://user-images.githubusercontent.com/111005666/187032316-c0bef277-1a65-478a-8a30-5f1a1a44f034.jpeg)
 
 2. OnStart
+
 ![OnStart](https://user-images.githubusercontent.com/111005666/187032337-38e2a3e8-3997-4491-a825-6121fa29cdae.jpeg)
 
 3. OnResume
